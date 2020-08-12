@@ -16,3 +16,17 @@
     padding: 14px 16px;
     text-decoration: none;
 }
+
+.container-f{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: #333;
+    padding: 1%;
+}
